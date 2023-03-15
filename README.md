@@ -6,7 +6,7 @@
 ### <div align="center">I'm Henry Odohi Unah, a full-time Software Developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working with ThermoFisher Scientific on interesting data engineering platform called Luna  
+- 🔭 I’m currently working with Deutsche Telekom - TDI on interesting cloud portal platform
   
 
 - 🌱 I’m currently learning Helm charts and Kubernetes  
