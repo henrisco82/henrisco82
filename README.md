@@ -6,13 +6,13 @@
 ### <div align="center">I'm Henry Odohi Unah, a full-time Software Developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working with Deutsche Telekom - TDI on interesting cloud portal platform
+- 🔭 I’m currently working with Dell Technologies - on Data Science Projects
   
 
 - 🌱 I’m currently learning Helm charts and Kubernetes  
   
 
-- ❓ Ask me about anything related to MEAN stack, Spring Framework and related technologies  
+- ❓ Ask me about anything related to MEAN stack, MERN Stack, Spring Framework and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
